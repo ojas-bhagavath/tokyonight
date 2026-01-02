@@ -8,10 +8,9 @@
 
 ## Preview
 
-<img src="preview_moon.png" width="300" />
-<img src="preview_day.png" width="300" />
-<img src="preview_night.png" width="300" />
-<img src="preview_storm.png" width="300" />
+<img src="preview_moon.png" width="300" /> <img src="preview_day.png" width="300" />
+
+<img src="preview_night.png" width="300" /> <img src="preview_storm.png" width="300" />
 
 ## Installation
 
