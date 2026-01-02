@@ -24,7 +24,7 @@ ya pkg add ojas-bhagavath/tokyonight:tokyonight-day
 ```
 
 ## Usage
-Add this to your themes.toml:
+Add this to `~/.config/yazi/themes.toml` (on UNIX-like systems) or `%AppData%\yazi\config\themes.toml` on Windows:
 ```toml
 [flavor]
 dark = "tokyonight-moon"
